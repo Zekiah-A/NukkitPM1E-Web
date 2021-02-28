@@ -34,7 +34,7 @@
 			</div>
 		</div>
 		<div class="hero-section centered">
-			<div data-w-id="e464d218-f801-55d1-1f50-7da00b5bfb8f" style="opacity:0" class="w-container">
+			<div data-w-id="e464d218-f801-55d1-1f50-7da00b5bfb8f" style="opacity:1" class="w-container"> <! --Removed: <div data-w-id="e464d218-f801-55d1-1f50-7da00b5bfb8f" || Changed opacity to 1-->
 				<h1 class="hero-heading">Nukkit PM1E</h1> <! --Removed: <h1 data-ix="fade-in-bottom-page-loads" -->
 				<div class="hero-subheading">a minecraft bedrock server software</div> <! --Removed: <h1 data-ix="fade-in-bottom-page-loads" -->
 				<div data-ix="fade-in-bottom-page-loads">
@@ -51,21 +51,21 @@
 				</div>
 				<div class="w-row">
 					<div class="w-col w-col-4">
-						<div style="opacity:1" class="white-box"> <! --Removed: <div data-w-id="270e8437-efa3-df11-d438-de69b23e41e9" -->
+						<div style="opacity:1" class="white-box"> <! --Removed: <div data-w-id="270e8437-efa3-df11-d438-de69b23e41e9" || Changed opacity to 1-->
 							<img src="../uploads-ssl.webflow.com/600eaf59fb39c7561d19b15a/600eaf5972061a6380d47a0b_feather-15-white.svg" alt="" class="grid-image"/>
 							<h3>Multiversion</h3>
 							<p>Nukkit PM1E has extensive multiversion support, supporting clients as old as 1.2 and as new as 1.16.200+.</p>
 						</div>
 					</div>
 					<div class="w-col w-col-4">
-						<div style="opacity:0" class="white-box"> <! --Removed:  <div data-w-id="29c25774-570b-ddb2-69b5-f4ddbb194afd" -->
+						<div style="opacity:1" class="white-box"> <! --Removed:  <div data-w-id="29c25774-570b-ddb2-69b5-f4ddbb194afd" || Changed opacity to 1-->
 							<img src="../uploads-ssl.webflow.com/600eaf59fb39c7561d19b15a/600eaf5972061a1628d479f4_feather2-17-white.svg" width="210" alt="" class="grid-image"/>
 							<h3>mobs galore</h3>
 							<p>Nukkit PM1E comes with native support for mobs and their AI. No need for hassle, no need for plugins.</p>
 						</div>
 					</div>
 					<div class="w-col w-col-4">
-						<div style="opacity:0" class="white-box"> <! --Removed: <div data-w-id="49e69b8a-ef40-4d84-1f92-d2617143b8db" -->
+						<div style="opacity:1" class="white-box"> <! --Removed: <div data-w-id="49e69b8a-ef40-4d84-1f92-d2617143b8db" || Changed opacity to 1-->
 							<img src="../uploads-ssl.webflow.com/600eaf59fb39c7561d19b15a/600eaf5972061a15cbd47a1c_feather2-22-white.svg" alt="" class="grid-image"/>
 							<h3>compatible</h3>
 							<p>Nukkit PM1E is a fork of the Nukkit server software. It is compatible with all of the Nukkit plugins and the full Nukkit API.</p>
