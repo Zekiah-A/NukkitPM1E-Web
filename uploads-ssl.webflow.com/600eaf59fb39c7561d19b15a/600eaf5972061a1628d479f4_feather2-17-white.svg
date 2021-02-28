@@ -1,18 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve">
-<g id="Background_xA0_Image_1_">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 30 30"
+   enable-background="new 0 0 30 30"
+   xml:space="preserve"
+   id="svg940"
+   sodipodi:docname="600eaf5972061a1628d479f4_feather2-17-white.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata946"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs944"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="-44.18097 : 1.7070969 : 1"
+     inkscape:vp_y="0 : 2164.3657 : 0"
+     inkscape:vp_z="55.519868 : 2.3976309 : 1"
+     inkscape:persp3d-origin="-5.3790958 : -9.1147317 : 1"
+     id="perspective964" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="960"
+   id="namedview942"
+   showgrid="false"
+   inkscape:pagecheckerboard="true"
+   inkscape:zoom="20.48"
+   inkscape:cx="8.9676211"
+   inkscape:cy="16.658959"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="minimize" />
+<g
+   id="Background_xA0_Image_1_">
 </g>
-<g id="Row_1_1_">
-	<g id="minimize">
-		<g>
-			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M13,5c-0.6,0-1,0.4-1,1v4.6L5.7,4.3c-0.4-0.4-1-0.4-1.4,0
-				c-0.4,0.4-0.4,1,0,1.4l6.3,6.3H6c-0.6,0-1,0.4-1,1c0,0.6,0.4,1,1,1h7c0.6,0,1-0.5,1-1V6C14,5.4,13.5,5,13,5z M25.7,24.3L19.4,18
-				H24c0.6,0,1-0.4,1-1c0-0.6-0.4-1-1-1h-7c-0.6,0-1,0.5-1,1v7c0,0.6,0.4,1,1,1s1-0.4,1-1v-4.6l6.3,6.3c0.4,0.4,1,0.4,1.4,0
-				C26.1,25.3,26.1,24.7,25.7,24.3z"/>
-		</g>
-	</g>
+<g
+   id="Row_1_1_">
+	<g
+   id="minimize">
+		
+	<rect
+   style="opacity:1;fill:#ffffff;fill-opacity:0.00980392;stroke:#ffffff;stroke-width:1.91763151;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect1010"
+   width="20.599556"
+   height="20.599556"
+   x="4.9834251"
+   y="4.8076434"
+   ry="3.8624172"
+   rx="4.52566" /><rect
+   style="opacity:1;fill:#ffffff;fill-opacity:0.08333333;stroke:#ffffff;stroke-width:1.43822348;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect1016"
+   width="12.055422"
+   height="2.5749445"
+   x="9.2359848"
+   y="19.945196"
+   ry="1.2679619" /><rect
+   style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.70330346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect1018"
+   width="4.1760535"
+   height="3.4236398"
+   x="8.2202673"
+   y="10.098892"
+   ry="1.7118199" /><rect
+   style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.70330346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect1018-3"
+   width="4.1760535"
+   height="3.4236398"
+   x="17.915909"
+   y="9.9623423"
+   ry="1.7118199" /></g>
 </g>
 </svg>
