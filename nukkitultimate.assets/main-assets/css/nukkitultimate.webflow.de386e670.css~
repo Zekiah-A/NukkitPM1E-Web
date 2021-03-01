@@ -105,6 +105,8 @@ p {
 
 .button:hover {
   background-color: #2e9dff;
+  transition-duration: 0.4s;
+  transform: scale(1.5);
 }
 
 .button.w--current {
@@ -691,6 +693,16 @@ p {
   border-radius: 5px;
   background-color: #fff;
   text-align: center;
+}
+
+.white-box:hover {
+  padding: 15px;
+  border: 1px solid #dcebf7;
+  border-radius: 1px;
+  background-color: #fff; /* fff */
+  text-align: center;
+  transition-duration: 0.4s;
+  transform: scale(1.01);
 }
 
 .white-box.transparent {
